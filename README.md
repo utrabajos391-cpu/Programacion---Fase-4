@@ -37,6 +37,14 @@ El sistema fue desarrollado en Python aplicando programación orientada a objeto
 
 ## Ejecución
 
+## Autor
+
+Nombre del estudiante: Libardo Rincon
+
+Curso: Programación
+Código: 213023
+Universidad Nacional Abierta y a Distancia - UNAD
+
 Para ejecutar el sistema, abra una terminal en la carpeta del proyecto y escriba:
 
 ```bash
