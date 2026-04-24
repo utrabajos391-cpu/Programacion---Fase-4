@@ -1,0 +1,15 @@
+[2026-04-24 08:30:56] Operación 1 ejecutada correctamente.
+[2026-04-24 08:30:56] ERROR VALIDACIÓN - Operación 2: El documento debe contener solo números.
+[2026-04-24 08:30:56] ERROR VALIDACIÓN - Operación 3: El correo electrónico no es válido.
+[2026-04-24 08:30:56] Operación 4 ejecutada correctamente.
+[2026-04-24 08:30:56] Operación 5 ejecutada correctamente.
+[2026-04-24 08:30:56] Operación 6 ejecutada correctamente.
+[2026-04-24 08:30:56] ERROR VALIDACIÓN - Operación 7: La tarifa base del servicio debe ser mayor que cero.
+[2026-04-24 08:30:56] Operación 8 ejecutada correctamente.
+[2026-04-24 08:30:56] ERROR VALIDACIÓN - Operación 9: La sala no se puede reservar por más de 8 horas.
+[2026-04-24 08:30:56] Reserva confirmada para el cliente Juan Pérez.
+[2026-04-24 08:30:56] Operación 10 ejecutada correctamente.
+[2026-04-24 08:30:56] Reserva procesada para Juan Pérez. Total: $169575.00
+[2026-04-24 08:30:56] Operación 11 ejecutada correctamente.
+[2026-04-24 08:30:56] OPERACIÓN NO PERMITIDA - Operación 12: No se puede cancelar una reserva ya procesada.
+[2026-04-24 08:30:56] SERVICIO NO DISPONIBLE - Operación 13: El servicio Proyector no está disponible.
