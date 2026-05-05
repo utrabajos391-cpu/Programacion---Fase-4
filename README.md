@@ -29,15 +29,10 @@ El sistema fue desarrollado en Python aplicando programación orientada a objeto
 - Bloques try, except, else y finally.
 - Registro de eventos en archivo externo.
 
-## Archivos del proyecto
-
-- `Sistema_Gestión.py`: contiene el código fuente principal.
-- `logs_sistema.txt`: archivo generado automáticamente con eventos y errores.
-- `README.md`: descripción general del proyecto.
 
 ## Ejecución
 
 Para ejecutar el sistema, abra una terminal en la carpeta del proyecto y escriba:
 
 ```bash
-python Sistema_Gestión.py
+python main.py
