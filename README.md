@@ -1,4 +1,4 @@
-# Sistema Integral de Gestión de Clientes, Servicios y Reservas - Software FJ
+# Sistema Integral de Gestión de Clientes, Servicios y Reservas - Software FJ - Libardo Jose Rincon Sanchez
 
 ## Descripción
 
