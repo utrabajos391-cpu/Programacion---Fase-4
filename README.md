@@ -1,4 +1,4 @@
-# Sistema Integral de Gestión
+# Sistema Integral de Gestión de Clientes, Servicios y Reservas - Software FJ
 
 ## Descripción
 
@@ -36,14 +36,6 @@ El sistema fue desarrollado en Python aplicando programación orientada a objeto
 - `README.md`: descripción general del proyecto.
 
 ## Ejecución
-
-## Autor
-
-Nombre del estudiante: Libardo Rincon
-
-Curso: Programación
-Código: 213023
-Universidad Nacional Abierta y a Distancia - UNAD
 
 Para ejecutar el sistema, abra una terminal en la carpeta del proyecto y escriba:
 

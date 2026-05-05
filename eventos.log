@@ -1,0 +1,54 @@
+[EVENTO] 2026-05-05 16:26:14 - Inicio de ejecución del sistema Software FJ.
+[EVENTO] 2026-05-05 16:26:14 - Cliente creado correctamente: Carlos Pérez
+[EVENTO] 2026-05-05 16:26:14 - Operación 1 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 1.
+[EVENTO] 2026-05-05 16:26:14 - Cliente creado correctamente: Ana Rodríguez
+[EVENTO] 2026-05-05 16:26:14 - Operación 2 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 2.
+[ERROR] 2026-05-05 16:26:14 - Operación 3 fallida: El nombre del cliente debe tener mínimo 3 caracteres.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 3.
+[EVENTO] 2026-05-05 16:26:14 - Servicio ReservaSala creado: Sala Ejecutiva
+[EVENTO] 2026-05-05 16:26:14 - Operación 4 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 4.
+[EVENTO] 2026-05-05 16:26:14 - Servicio ReservaSala creado: Sala Empresarial Grande
+[EVENTO] 2026-05-05 16:26:14 - Operación 5 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 5.
+[EVENTO] 2026-05-05 16:26:14 - Servicio AlquilerEquipo creado: Alquiler de Video Beam
+[EVENTO] 2026-05-05 16:26:14 - Operación 6 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 6.
+[EVENTO] 2026-05-05 16:26:14 - Servicio AsesoriaEspecializada creado: Asesoría en Programación
+[EVENTO] 2026-05-05 16:26:14 - Operación 7 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 7.
+[ERROR] 2026-05-05 16:26:14 - Operación 8 fallida: El nombre del servicio debe tener mínimo 3 caracteres.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 8.
+[EVENTO] 2026-05-05 16:26:14 - Reserva creada correctamente: R001
+[EVENTO] 2026-05-05 16:26:14 - Operación 9 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 9.
+[EVENTO] 2026-05-05 16:26:14 - Reserva confirmada: R001
+[EVENTO] 2026-05-05 16:26:14 - Finalizó el intento de confirmación de la reserva R001
+[EVENTO] 2026-05-05 16:26:14 - Operación 10 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 10.
+[EVENTO] 2026-05-05 16:26:14 - Reserva procesada: R001 | Costo total: 224910.0
+[EVENTO] 2026-05-05 16:26:14 - Finalizó el procesamiento de la reserva R001
+[EVENTO] 2026-05-05 16:26:14 - Operación 11 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 11.
+[EVENTO] 2026-05-05 16:26:14 - Reserva creada correctamente: R002
+[EVENTO] 2026-05-05 16:26:14 - Reserva confirmada: R002
+[EVENTO] 2026-05-05 16:26:14 - Finalizó el intento de confirmación de la reserva R002
+[EVENTO] 2026-05-05 16:26:14 - Reserva cancelada: R002
+[EVENTO] 2026-05-05 16:26:14 - Finalizó el intento de cancelación de la reserva R002
+[EVENTO] 2026-05-05 16:26:14 - Operación 12 ejecutada correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 12.
+[ERROR] 2026-05-05 16:26:14 - Operación 13 fallida: La duración de la reserva debe ser mayor que cero.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 13.
+[EVENTO] 2026-05-05 16:26:14 - Reserva creada correctamente: R004
+[ERROR] 2026-05-05 16:26:14 - No se pudo confirmar la reserva: El servicio 'Asesoría en Programación' no se encuentra disponible.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó el intento de confirmación de la reserva R004
+[ERROR] 2026-05-05 16:26:14 - Operación 14 fallida: La reserva no pudo confirmarse porque el servicio no está disponible.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 14.
+[EVENTO] 2026-05-05 16:26:14 - Reserva creada correctamente: R005
+[ERROR] 2026-05-05 16:26:14 - Error procesando reserva R005: Solo se pueden procesar reservas confirmadas.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó el procesamiento de la reserva R005
+[ERROR] 2026-05-05 16:26:14 - Operación 15 fallida: No fue posible procesar la reserva correctamente.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la operación 15.
+[EVENTO] 2026-05-05 16:26:14 - Finalizó la ejecución del sistema Software FJ.
